@@ -1,4 +1,6 @@
-# Mr. Gitwik Jr. (a.k.a. "Markup resistant git-based Wiki on JRuby")
+## Mr. Gitwik Jr.
+
+> a.k.a. "Markup resistant git-based Wiki on JRuby"
 
 This Wiki system is inspired by Gollum. Gollum has been around for many years and enjoys a large userbase but it also faces many problems and suffers from serious caveats.
 
