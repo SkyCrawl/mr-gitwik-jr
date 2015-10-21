@@ -31,4 +31,4 @@ And we can't stress this enough...
 * We want everything about Gitwik to scream with the word "quality".
 * Eventually, we want to bring you official Docker support.
 
-So much for the plans... Gonna take a while to make a reality :).
+So much for the plans... Gonna take a while to make this a reality :).
